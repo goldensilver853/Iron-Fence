@@ -1,0 +1,16 @@
+[
+{
+  "modid": "IronFence",
+  "name": "IronFence",
+  "description": "Fence mod based off of cpw's Iron Chest mod",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["goldensilver853"],
+  "credits": "goldensilver853",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

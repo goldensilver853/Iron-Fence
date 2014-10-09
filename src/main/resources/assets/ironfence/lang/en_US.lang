@@ -1,0 +1,10 @@
+tile.ironFence.name=Iron Fence
+tile.copperFence.name=Copper Fence
+tile.silverFence.name=Silver Fence
+tile.goldFence.name=Gold Fence
+tile.diamondFence.name=Diamond Fence
+tile.crystalFence.name=Crystal Fence
+tile.DirtFence.name=Dirt Fence 8999!
+tile.obsidianFence.name=Obsidian Fence
+item.crystalUpgrade.name=Crystal Fence Upgrade
+item.obsidianUpgrade.name=Obsidian Fence Upgrade
